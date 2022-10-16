@@ -23,7 +23,7 @@ cepInput.addEventListener("keypress", (event) => {
     }
 });
 
-// Evento to get address
+// Event to get address
 cepInput.addEventListener("keyup", (event) => {
     const inputValue = event.target.value;
 
